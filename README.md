@@ -33,5 +33,4 @@ Each vulnerability was evaluated based on Confidentiality, Integrity, and Availa
 ## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
 
-![image](<img width="542" height="304" alt="Screenshot 2026-01-21 213236" src="https://github.com/user-attachments/assets/41480407-01b9-4082-a96d-5c856d13d2f7")/>
 
